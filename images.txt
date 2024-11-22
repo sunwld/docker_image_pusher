@@ -1,1 +1,1 @@
-onlyoffice/documentserver:8.2.0
+onlyoffice/documentserver:7.5.1
